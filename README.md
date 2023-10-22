@@ -1,1 +1,1 @@
-# Assessment-2 - Hangman Game
+# Assessment - Hangman Game
